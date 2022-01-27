@@ -2,6 +2,9 @@
 
 Welcome to the official website of the MIR-SVS project.
 
+### Change log
+2022.01.27 Create this website.
+
 <!-- You can use the [editor on GitHub](https://github.com/york135/MIR-SVS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
