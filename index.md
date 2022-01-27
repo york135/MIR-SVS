@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## MIR-SVS official website
+
+Welcome to the official website of the MIR-SVS project.
 
 You can use the [editor on GitHub](https://github.com/york135/MIR-SVS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
